@@ -1,4 +1,6 @@
 # Analisis Penjualan Produk 
 Analisis Penjualan Produk yang dilengkapi dengan hasil analisis yang berupa diagram lingkaran, diagram tabel, dan grafik
 
-![alt_text](https://github.com/deftiagita/analisis-data-penjualan/commit/22c1db5487d84e1948694d20800ac9e7772bac62?raw=true)
+# Interpretasi Hasil Analisis
+![alt_text](![Figure_1](https://github.com/deftiagita/analisis-data-penjualan/assets/167218696/2bd0bcf3-27d3-437d-b49c-399a9f3d8579)
+?raw=true)
